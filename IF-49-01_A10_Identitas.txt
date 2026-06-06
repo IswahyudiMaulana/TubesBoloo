@@ -1,0 +1,72 @@
+Kelompok M22:
+Rafael Dastin Tjandra   103012500175
+Iswahyudi Maulana       103012500218
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Data yang akan diinputkan
+73829104 20211105 Benedict_Cumberbatch Akuntansi_Dasar
+19283745 20190822 Joe_Cole Desain_Grafis
+56473829 20230214 Scarlett_Johansson Public_Speaking
+90128374 20200709 Arthur_Shelby Manajemen_Bisnis
+48572910 20251201 Brie_Larson Fotografi_Dasar
+83920156 20180430 Tom_Holland Kewirausahaan
+27485930 20221015 Cillian_Murphy Ilmu_Komunikasi
+61029384 20240118 Chris_Evans Manajemen_Waktu
+38475619 20190822 Helen_McCrory Bahasa_Inggris
+94857102 20210611 Paul_Rudd Digital_Marketing
+50392817 20230925 Tom_Hardy Akuntansi_Dasar
+12938475 20200304 Elizabeth_Olsen Desain_Grafis
+85746392 20251201 Thomas_Shelby Public_Speaking
+41029385 20220520 Anya_Taylor_Joy Manajemen_Bisnis
+76859403 20181111 Robert_Downey Fotografi_Dasar
+39485716 20240808 Sophie_Rundle Kewirausahaan
+62738491 20211105 Chadwick_Boseman Ilmu_Komunikasi
+20938475 20191225 Alfie_Solomons Manajemen_Waktu
+84756192 20230717 Chris_Hemsworth Bahasa_Inggris
+53829104 20201010 Annabelle_Wallis Digital_Marketing
+19284756 20250422 Mark_Ruffalo Akuntansi_Dasar
+95847362 20221015 Paul_Anderson Desain_Grafis
+47586930 20180228 Natasha_OKeeffe Public_Speaking
+71829304 20240505 Jeremy_Renner Manajemen_Bisnis
+36475819 20190312 Tom_Hiddleston Fotografi_Dasar
+60594827 20210909 Finn_Cole Kewirausahaan
+29384756 20230214 Sam_Neill Ilmu_Komunikasi
+81920374 20201231 Anthony_Mackie Manajemen_Waktu
+54637281 20250817 Adrien_Brody Bahasa_Inggris
+10928374 20220520 Sebastian_Stan Digital_Marketing
